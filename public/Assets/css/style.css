@@ -1,0 +1,20 @@
+a {
+  color: white;
+  text-decoration: none;
+}
+
+
+.padded {
+  padding: 20px;
+}
+
+body {
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+.sticky-footer{
+  position: sticky;
+  top: 100%;
+
+}
